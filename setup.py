@@ -9,7 +9,7 @@ def find_required():
 setup(
     name="vedro-lazy-rerunner",
     version="0.1.0",
-    description="vedro-lazy-rerunner package",
+    description="Rerunner plugin for the Vedro testing framework",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     author="Konstantin Shefer",
